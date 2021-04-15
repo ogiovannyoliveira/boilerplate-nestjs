@@ -1,0 +1,1 @@
+### Keep all business rules of module. Separate the rules by cases, and make a folder to keep the related files (like controllers and services (called "useCase" too)).
