@@ -1,0 +1,1 @@
+### Keeps the fake repositories of project, but are the repositories with real functions, not interfaces. The difference is that this repositories don't save the data in database, but in the memory.

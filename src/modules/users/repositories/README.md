@@ -1,1 +1,1 @@
-### This folder is used to create interfaces of implementation in the TypeORM or any ORM ***repositories***.
+### This folder is used to create interfaces of implementation in the TypeORM or any ORM ***repositories*** and fakes repositories to in-memory tests

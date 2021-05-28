@@ -1,0 +1,1 @@
+### This folder keeps all query methods to database. The classes implements the repository of module to guarantee that all query methods requests exist in the file.

@@ -1,1 +1,1 @@
-### Keep all structure of rules, business, routes... of module.
+### Keeps all structure of rules, business, routes... of module.

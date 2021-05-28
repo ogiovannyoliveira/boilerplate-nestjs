@@ -1,1 +1,0 @@
-### This folder keep the entity files, in the typeorm case, will be used to make queries on database and map the tables of the same.
